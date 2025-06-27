@@ -1,0 +1,1 @@
+export const aiPropmptConst = `Write a friendly, personalized outreach message introducing Outflo, mentioning how it can help automate outreach to increase meetings & sales. Address the user by their first name. use these details as sender, name: "Shiv Shankar Kushwaha", company: "Outflow.io", email: "campaign@outflow.ai", phone: "+1 (123) 456-7890`

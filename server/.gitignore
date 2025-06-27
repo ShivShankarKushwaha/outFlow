@@ -1,0 +1,6 @@
+node_modules
+.env
+dist
+.vercel
+puppeteer_user_data
+.vscode
